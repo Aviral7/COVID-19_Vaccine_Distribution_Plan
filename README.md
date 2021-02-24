@@ -1,1 +1,1 @@
-# COVID-19_Vaccine_Distribution_Plan
+# COVID-19 Vaccine Distribution Plan
